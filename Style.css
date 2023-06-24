@@ -1,0 +1,22 @@
+html{
+    background-color:white;
+    font-family: "Lucinda Console", monospace;
+}
+section{
+    background-color:lightblue;
+    border-left: 5px solid blue;
+}
+h1{
+    color: black;
+    border-bottom: double;
+}
+table{
+    border: solid black;
+}
+th{
+    border: double black;
+    background-color: lightskyblue;
+}
+td{
+    border: 1px solid black;
+}
